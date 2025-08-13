@@ -45,18 +45,27 @@ For each volume fraction:
 The analysis generates three key visualization scenarios:
 
 #### High Volume Fraction (Vf = 60.0%)
+
+![Vf60](Vf60.png)
+
 - **Number of Fibers**: 21,220
 - **Average Spacing**: 0.300 mm
 - **Standard Deviation**: 0.135 mm
 - **Characteristics**: Dense, tightly packed distribution with uniform coverage
 
 #### Medium Volume Fraction (Vf = 30.0%)
+
+![Vf30](Vf30.png)
+
 - **Number of Fibers**: 10,610
 - **Average Spacing**: 0.274 mm
 - **Standard Deviation**: 0.126 mm
 - **Characteristics**: Moderate density with visible spacing between fibers
 
 #### Low Volume Fraction (Vf = 10.0%)
+
+![Vf10](Vf10.png)
+
 - **Number of Fibers**: 3,536
 - **Average Spacing**: 0.222 mm
 - **Standard Deviation**: 0.103 mm
